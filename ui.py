@@ -3,7 +3,7 @@ import pickle
 
 #Function to load the selected model
 def load_model(model_name):
-    model_path = f'/Users/da_m1_46/Desktop/Malebo_Customer_Income_Prediction/{model_name}.pkl'
+    model_path = f'/Users/da_m1_46/Desktop/Malebo_Gender_Based_Violence/{model_name}.pkl'
     with open(model_path, 'rb') as file:
         model = pickle.load(file)
     return model
@@ -16,7 +16,7 @@ def main():
     page_bg_img = '''
     <style>
     .stApp {
-        background-image: url('image.png');
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvpo3Q9QOOHVw81zgqfdFd_-pGiL7csBciXw&usqp=CAU');
         background-size: cover;
     }
     </style>
