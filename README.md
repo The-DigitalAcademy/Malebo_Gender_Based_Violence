@@ -20,7 +20,7 @@ General Info
 
 The objective of this challenge is to create a machine learning algorithm that classifies tweets about GBV into one of five categories: sexual violence, emotional violence, harmful traditional practices, physical violence and economic violence.
 
-#Technologies used
+# Technologies used
 
 The project leverages the following technologies and libraries:
 
@@ -36,11 +36,11 @@ Jupyter Notebook (for data exploration and model development)
 
 
 
-Features
+# Features
 The dataset includes the following features:
 
 
-#Setup
+# Setup
 
 To set up the Gender Based Violence project , follow these steps:
 
@@ -48,15 +48,15 @@ Install the required software and libraries for Python. Clone the project reposi
 
 Import the dataset into Python Then perform analysis  and do machine learning with python.
 
-#Usage
+# Usage
 
 #Project status
 This project is currently in development.
 
-#Room for improvement
+# Room for improvement
 
 Feature selection: Identify and utilize the most relevant features for better model performance. Model selection: Experiment with various regression models to find the most suitable one for this specific challenge.
 
-#Acknowledgement
+# Acknowledgement
 
 Phosa Malebo
